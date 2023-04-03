@@ -1,1 +1,1 @@
-# decorator
+# Padrão de Projeto Estrutural - Decorator
